@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and acknowledge the upstream data sources."
+type: dataset
+title: "Small net bed level differences conceal contrasting profile adjustments in the Yellow River Delta: processed source data"
+authors:
+  - family-names: Huang
+    given-names: Nan
+  - family-names: Yu
+    given-names: Yonggui
+  - family-names: Luo
+    given-names: Gan
+  - family-names: Zhang
+    given-names: Yi
+version: 1.0.0
+date-released: 2026-11-09
+abstract: "Processed profile metrics, spatial diagnostics, environmental aggregates and conditional observation-error outputs for 36 Yellow River Delta profiles surveyed in 2009, 2010, 2011 and 2014. Local package prepared for repository deposit."
+keywords:
+  - Yellow River Delta
+  - coastal geomorphology
+  - profile adjustment
+  - bathymetry
+  - source data
